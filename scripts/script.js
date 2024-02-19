@@ -35,7 +35,7 @@ for (const seat of allSeats){
         // Coupon functionality 
         const coupon=document.getElementById("coupon");
         handleSeatClick(seatData);
-        if(count>=4){
+        if(count>4){
             alert("You have reached the limit!");
             disableSeats(seat);
             coupon.removeAttribute("disabled");
