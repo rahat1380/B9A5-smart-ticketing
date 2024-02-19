@@ -1,72 +1,9 @@
-.raleway {
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* <!-- google fonts  --> */
+.font-raleway{
     font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-style: normal;
 }
-
-.raleway-2 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.raleway-3 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
-.raleway-4 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.raleway-5 {
-    font-family: "Raleway", sans-serif;
-    font-weight: 600;
-    font-style: normal;
-}
-
-
-.inter {
+.font-inter{
     font-family: "Inter", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-
-}
-
-.inter-1 {
-
-    font-family: Inter;
-    font-size: 18px;
-    font-weight: 400;
-
-}
-
-.inter-2 {
-
-    font-family: Inter;
-    font-size: 18px;
-    font-weight: 500;
-
-}
-
-.roboto {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.roboto-2 {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.roboto-3 {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-
 }
